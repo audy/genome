@@ -1,24 +1,28 @@
 # Genome::Genome
 
-TODO: Write a gem description
+Represent Bacterial genomes in Ruby.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'genome-genome'
+```ruby
+gem 'genome-genome'
+```
 
 And then execute:
 
-    $ bundle
+```bash
+$ bundle
+```
 
 Or install it yourself as:
 
-    $ gem install genome-genome
+```bash
+$ gem install genome-genome
+```
 
 ## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
