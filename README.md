@@ -1,4 +1,4 @@
-# Genome::Genome
+# Genome
 
 Represent Bacterial genomes in Ruby.
 
