@@ -7,7 +7,7 @@ Represent Bacterial genomes in Ruby.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'genome-genome'
+gem 'genome'
 ```
 
 And then execute:
@@ -19,7 +19,7 @@ $ bundle
 Or install it yourself as:
 
 ```bash
-$ gem install genome-genome
+$ gem install genome
 ```
 
 ## Usage
